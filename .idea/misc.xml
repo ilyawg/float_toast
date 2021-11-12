@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/kalmar/Desktop/FloatToast/app/src/main/res/drawable/toast_drawable.xml" value="0.2125" />
         <entry key="..\:/Users/kalmar/Desktop/FloatToast/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/kalmar/Desktop/FloatToast/app/src/main/res/layout/cities_item.xml" value="0.5" />
+        <entry key="..\:/Users/kalmar/Desktop/FloatToast/app/src/main/res/layout/custom_toast.xml" value="0.67" />
         <entry key="..\:/Users/kalmar/Desktop/FloatToast/app/src/main/res/layout/user_list_item.xml" value="0.19635416666666666" />
       </map>
     </option>
